@@ -71,3 +71,7 @@ ol li{
 	margin-left: auto;
 	margin-right: auto;
 }
+
+.level img{
+	width: 48px;
+}
